@@ -1,0 +1,15 @@
+name: 'David Childs'
+super: true
+id: f098d088-9f04-48e2-9ae1-fc31536040f5
+password_hash: $2y$12$UL9M6GJKeg84t.EJ8B9.b.7hZkaVtapQ8Az/nggeSljTiQPBpGJRK
+preferences:
+  theme: light
+  collections:
+    writing:
+      columns:
+        - title
+        - author
+        - slug
+        - date
+        - status
+        - pageviews
